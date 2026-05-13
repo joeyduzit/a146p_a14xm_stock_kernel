@@ -1,11 +1,7 @@
-# Android device tree for samsung SM-A146P (a14xm)
-
+# Stock Kernel Source Code for Samsung A14 5G A146P a14xm MediaTek MT6833 Android 15(V)
 ```
-
 ############################################################################################################################################
 1. How to Build
-   - get Toolchain
-     get the proper toolchain packages from AOSP or Samsung Open Source or ETC.
 
      (1) AOSP Kernel
          https://source.android.com/docs/setup/build/building-kernels
@@ -15,6 +11,10 @@
      (2) Samsung Open Source
          https://opensource.samsung.com/uploadSearch?searchValue=Galaxy-A14-5g
 
+   - get Toolchain
+     get the proper toolchain packages from AOSP or Samsung Open Source or ETC.
+
+     get the proper toolchain packages from AOSP or Samsung Open Source or ETC.
          copy the following list to the root directory
          - build/
          - external/
