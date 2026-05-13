@@ -1,4 +1,5 @@
-# Stock Kernel Source Code for Samsung A14 5G A146P a14xm MediaTek MT6833 Android 15(V)
+# Stock Kernel Source Code for Samsung A14 5G A146P 
+a14xm MediaTek MT6833 Android 15(V)
 ```
 ############################################################################################################################################
 1. How to Build
